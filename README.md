@@ -19,4 +19,6 @@ Submenu:
 
 6-Change Password 
 
-7-Exit
+7-Delete Account
+
+8-Exit
